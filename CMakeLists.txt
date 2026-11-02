@@ -4,5 +4,7 @@ project(JSON_Parser)
 set(CMAKE_CXX_STANDARD 23)
 
 add_executable(JSON_Parser main.cpp
-        Container.hpp
-        include/JsonNode.hpp)
+        include/Container.hpp
+)
+
+include_directories(include)

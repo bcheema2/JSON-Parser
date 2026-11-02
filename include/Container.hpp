@@ -3,7 +3,7 @@
 //
 
 #pragma once
-#include "include/JsonNode.hpp"
+#include "JsonNode.hpp"
 #include <variant>
 #include <vector>
 #include <stdexcept>
