@@ -1,0 +1,19 @@
+# IDEs & Editors
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# CMake Build Directories
+cmake-build-*/
+build/
+bin/
+
+# Compiled Object Files & Binaries
+*.o
+*.obj
+*.exe
+*.out
+*.dylib
+*.so
+*.a
